@@ -1,13 +1,12 @@
 
-
-# Instructions
-
-
 **This repository has been included in the CMSHI repository.**
 
 **https://github.com/CmsHI/RawToMP7Text.**
 
 **Please refer to this repository for the current version of this code**
+
+# Instructions ConvertedoRSCtoMP7
+
 
 This code allows you to read an oRSC output txt file and convert it into the MP7 payload format.
 
